@@ -29,6 +29,10 @@ OS : Linus / Windows<br>
    # Want to know the weather of your city?
   - Ask <b>EVA</b> , <b>weather</b> of Dhaka(City name)<br>
   - tell any sentence just inculde the word <b>weather</b> <br>
+  
+  # Want to stop eva?
+  - Ask <b>EVA</b> , <b>Goodbye</b> <br>
+  - tell any sentence just inculde the word <b>Goodbye</b> <br>
 
   # Fun things 
   - You can ask EVA for <b>date</b> with you 
