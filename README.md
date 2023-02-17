@@ -16,7 +16,7 @@ OS : Linus / Windows<br>
   
    # Want to know something about from wikipedia?
   - Ask <b>EVA</b> , <b>tell me about</b> Japan <br>
-  - tell any sentence just inculde the words <b>tell me about</b> <br>
+  - tell any sentence just include the words <b>tell me about</b> <br>
 
   # Want to search something in google?
   - Ask <b>EVA</b> , <b>search</b> How to drive <br>
