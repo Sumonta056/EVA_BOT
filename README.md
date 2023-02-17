@@ -35,7 +35,7 @@ OS : Linus / Windows<br>
   - tell any sentence just include the word <b>Goodbye</b> <br>
 
   # Fun things 
-  - You can ask EVA for <b>date</b> with you 
+  - You can ask EVA to go on a <b>date</b> with you 
   - You can also ask for some funny jokes 
 
   
